@@ -1,8 +1,7 @@
 # ARCHIVE-12
 THIS IS PART OF ARCHIVE SERIES A CLOUD STORAGE FOR OUR STARTUP FILES WHICH U CAN RESEARCH :-)
 
-rough codes: 
-
+all codes are attached to this repository !
 
 
 
